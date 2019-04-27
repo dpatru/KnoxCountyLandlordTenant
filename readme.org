@@ -1,0 +1,67 @@
+* Uniform Residential Landlord and Tenant Act (URLT)
+The URLT applies to Knox County.
+
+** Failure to pay rent
+*** Statute
+2016 Tennessee Code
+Title 66 - Property
+Chapter 28 - Uniform Residential Landlord and Tenant Act
+Part 5 - Enforcement and Remedies
+§ 66-28-505. Noncompliance by tenant -- Failure to pay rent.
+Universal Citation: TN Code § 66-28-505 (2016)
+(a) (1) Except as otherwise provided in subsection (b), if there is a material noncompliance by the tenant with the rental agreement or a noncompliance with § 66-28-401 materially affecting health and safety, the landlord may deliver a written notice to the tenant specifying the acts and omissions constituting the breach and that the rental agreement shall terminate as provided in subdivisions (a)(2) or (a)(3).
+
+(2) If the breach for which notice was given in subdivision (a)(1) is remediable by the payment of rent, the cost of repairs, damages, or any other amount due to the landlord pursuant to the rental agreement, the landlord may inform the tenant that if the breach is not remedied within fourteen (14) days after receipt of such notice, the rental agreement shall terminate, subject to the following:
+
+(A) All repairs to be made by the tenant to remedy the tenant's breach must be requested in writing by the tenant and authorized in writing by the landlord prior to such repairs being made; provided, however, that the notice sent pursuant to this subdivision (a)(2) shall inform the tenant that prior written authorization must be given by the landlord to the tenant pursuant to this subdivision (a)(2)(A); and
+
+(B) If substantially the same act or omission which constituted a prior noncompliance of which notice was given recurs within six (6) months, the landlord may terminate the rental agreement upon at least seven (7) days' written notice specifying the breach and the date of termination of the rental agreement.
+
+(3) If the breach for which notice was given in subdivision (a)(1) is not remediable by the payment of rent, the cost of repairs, damages, or any other amount due to the landlord pursuant to the rental agreement, the landlord may inform the tenant that the rental agreement shall terminate upon a date not less than fourteen (14) days after receipt of the notice.
+
+(4) Nothing in subdivision (a)(2) or (a)(3) shall be construed as requiring a landlord to provide additional notice to the tenant other than the notice required by this section.
+
+(b) Notwithstanding subsection (a), if the tenant waives any notice required by this section, the landlord may proceed to file a detainer warrant immediately upon breach of the agreement for failure to pay rent without the landlord providing notice of such breach to the tenant; provided, however, that this subsection (b) shall not reduce the tenant's grace period as provided in § 66-28-201. The tenant's waiver pursuant to this subsection (b) shall be set out in twelve (12) point bold font or larger in the rental agreement.
+
+(c) Notwithstanding notice of a breach or the filing of a detainer warrant pursuant to this section, the rental agreement is enforceable by the landlord for the collection of rent for the remaining term of the rental agreement.
+
+(d) Except as otherwise provided in this chapter, the landlord may recover damages and obtain injunctive relief for any noncompliance by the tenant with the rental agreement or § 66-28-401. The landlord may recover reasonable attorney's fees for breach of contract and nonpayment of rent as provided in the rental agreement.
+
+(e) The landlord may recover punitive damages from the tenant for willful destruction of property caused by the tenant or by any other person on the premises with the tenant's consent.
+*** Rental Agreement Requirements
+2016 Tennessee Code
+Title 66 - Property
+Chapter 28 - Uniform Residential Landlord and Tenant Act
+Part 2 - Rental Agreements
+§ 66-28-201. Terms and conditions.
+Universal Citation: TN Code § 66-28-201 (2016)
+(a) The landlord and tenant may include in a rental agreement, terms and conditions not prohibited by this chapter or other rule of law including rent, term of the agreement, and other provisions governing the rights and obligations of parties. A rental agreement cannot provide that the tenant agrees to waive or forego rights or remedies under this chapter. The landlord or the landlord's agent shall advise in writing that the landlord is not responsible for, and will not provide, fire or casualty insurance for the tenant's personal property.
+
+(b) In absence of a lease agreement, the tenant shall pay the reasonable value for the use and occupancy of the dwelling unit.
+
+(c) Rent shall be payable without demand at the time and place agreed upon by the parties. Notice is specifically waived upon the nonpayment of rent by the tenant only if such a waiver is provided for in a written rental agreement. Unless otherwise agreed, rent is payable at the dwelling unit and periodic rent is payable at the beginning of any term of one (1) month or less and otherwise in equal monthly installments at the beginning of each month. Upon agreement, rent shall be uniformly apportionable from day to day.
+
+(d) There shall be a *five-day grace period* beginning the day the rent was due to the day a fee for the late payment of rent may be charged. The date the rent was due shall be included in the calculation of the five-day grace period. If the last day of the five-day grace period occurs on a Sunday or legal holiday, as defined in § 15-1-101, the landlord shall not impose any charge or fee for the late payment of rent; provided, that the rent is paid on the next business day. Any charge or fee, however described, which is charged by the landlord for the late payment of rent, shall not exceed ten percent (10%) of the amount of rent past due.
+
+*** Notice
+**** Notice Defined
+§ 66-28-106. Notice.
+Universal Citation: TN Code § 66-28-106 (2016)
+(a) Either party has notice of a fact if such person:
+
+(1) Has actual knowledge of it; or
+
+(2) Has been given written notice.
+
+(b) All parties must give written notice to the last known or designated address contained in the lease agreement.
+
+**** Email Notice
+2016 Tennessee Code
+Title 66 - Property
+Chapter 28 - Uniform Residential Landlord and Tenant Act
+Part 1 - General Provisions
+§ 66-28-108. Notification sent by e-mail.
+Universal Citation: TN Code § 66-28-108 (2016)
+
+If the tenant provides an electronic mail address in the rental agreement, any notification required to be sent to the tenant pursuant to this chapter may be made by the landlord through electronic notification to such mail address, unless a provision in this chapter requires a specific form of notification other than electronic notification; provided, however, that the landlord shall not require the tenant to provide an electronic mail address as a condition of entering into a rental agreement.
+
